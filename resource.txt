@@ -1,0 +1,79 @@
+说明： 该wiki为【阿铭Linux】培训所用到的所有资源汇总，有系统下载地址、源码包下载地址、电子书下载地址等各种资源。
+CentOS6.7下载地址：
+
+32位 http://mirrors.sohu.com/centos/6.7/isos/i386/CentOS-6.7-i386-bin-DVD1.iso
+
+64位 http://mirrors.sohu.com/centos/6.7/isos/x86_64/CentOS-6.7-x86_64-bin-DVD1.iso
+centos老版本下载地址：
+
+http://vault.centos.org/
+vmware10下载地址：
+
+http://pan.baidu.com/s/1eQxOVPC
+mysql下载地址：
+
+5.1_64位二进制包：http://mirrors.sohu.com/mysql/MySQL-5.1/mysql-5.1.73-linux-x86_64-glibc23.tar.gz
+5.1_32位二进制包：http://mirrors.sohu.com/mysql/MySQL-5.1/mysql-5.1.73-linux-i686-glibc23.tar.gz
+5.5_64位二进制包：http://mirrors.sohu.com/mysql/MySQL-5.5/mysql-5.5.45-linux2.6-x86_64.tar.gz
+5.5_32位二进制包：http://mirrors.sohu.com/mysql/MySQL-5.5/mysql-5.5.45-linux2.6-i686.tar.gz
+5.6_32位二进制包：http://mirrors.sohu.com/mysql/MySQL-5.6/mysql-5.6.26-linux-glibc2.5-i686.tar.gz
+5.6_64位二进制包：http://mirrors.sohu.com/mysql/MySQL-5.6/mysql-5.6.26-linux-glibc2.5-x86_64.tar.gz
+5.5源码包：http://mirrors.sohu.com/mysql/MySQL-5.5/mysql-5.5.45.tar.gz
+5.6源码包：http://mirrors.sohu.com/mysql/MySQL-5.6/mysql-5.6.26.tar.gz 
+apache下载地址：
+
+2.2源码包： http://mirrors.cnnic.cn/apache/httpd/httpd-2.2.31.tar.gz
+2.4源码包： http://mirrors.cnnic.cn/apache/httpd/httpd-2.4.16.tar.gz
+nginx下载地址：
+
+1.8源码包： http://nginx.org/download/nginx-1.8.0.tar.gz
+1.6源码包： http://nginx.org/download/nginx-1.6.3.tar.gz
+1.4源码包： http://nginx.org/download/nginx-1.4.7.tar.gz
+php下载地址：
+
+5.6源码包： http://cn2.php.net/get/php-5.6.13.tar.bz2/from/this/mirror
+5.5源码包： http://cn2.php.net/get/php-5.5.29.tar.bz2/from/this/mirror
+5.4源码包： http://cn2.php.net/get/php-5.4.45.tar.bz2/from/this/mirror
+其他版本： http://php.net/releases/
+memcache php扩展下载地址：
+
+    http://www.lishiming.net/data/attachment/forum/memcache-2.2.3.tgz
+memcached下载地址：
+
+    http://memcached.org/files/memcached-1.4.24.tar.gz
+redis下载地址：
+
+    https://codeload.github.com/antirez/redis/tar.gz/2.8.21  (下载后改名redis-2.8.21.tar.gz)
+redis php扩展下载地址：
+
+    https://codeload.github.com/phpredis/phpredis/zip/develop （下载后改名phpredis-develop.zip）
+pureftp下载地址：
+
+http://download.pureftpd.org/pub/pure-ftpd/releases/pure-ftpd-1.0.42.tar.bz2
+http://download.pureftpd.org/pub/pure-ftpd/releases/pure-ftpd-1.0.42.tar.gz
+java JDK下载地址：
+
+32位rpm安装包：http://download.oracle.com/otn-pub/java/jdk/8u60-b27/jdk-8u60-linux-i586.rpm
+32位源码包：http://download.oracle.com/otn-pub/java/jdk/8u60-b27/jdk-8u60-linux-i586.tar.gz
+64位rpm安装包：http://download.oracle.com/otn-pub/java/jdk/8u60-b27/jdk-8u60-linux-x64.rpm
+64位源码包：http://download.oracle.com/otn-pub/java/jdk/8u60-b27/jdk-8u60-linux-x64.tar.gz
+tomcat下载地址：
+
+源码包：http://mirrors.cnnic.cn/apache/tomcat/tomcat-8/v8.0.28/src/apache-tomcat-8.0.28-src.tar.gz
+二进制软件包：http://mirrors.cnnic.cn/apache/tomcat/tomcat-8/v8.0.28/bin/apache-tomcat-8.0.28.tar.gz
+7版本二进制：http://mirrors.cnnic.cn/apache/tomcat/tomcat-7/v7.0.65/bin/apache-tomcat-7.0.65.tar.gz
+7版本源码包：http://mirrors.cnnic.cn/apache/tomcat/tomcat-7/v7.0.65/src/apache-tomcat-7.0.65-src.tar.gz
+resin下载地址：
+
+http://caucho.com/download/resin-4.0.45.tar.gz
+网络相关电子书
+
+    http://pan.baidu.com/s/1kTlDi8f
+shell相关电子书
+
+    链接:http://pan.baidu.com/s/1mg49Taw 密码:yk4b
+
+    http://pan.baidu.com/share/link?shareid=175440432&uk=235144927
+python基础教程
+
+    http://pan.baidu.com/s/1z0Yx4
