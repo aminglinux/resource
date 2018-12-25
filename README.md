@@ -3,16 +3,24 @@
 
     http://coderschool.cn/1853.html
     
-CentOS7.3下载地址：
+CentOS7.5下载地址：
 
-    http://mirrors.sohu.com/centos/7.3.1611/isos/x86_64/CentOS-7-x86_64-DVD-1611.iso
+    64位  http://mirrors.sohu.com/centos/7.5.1804/isos/x86_64/CentOS-7-x86_64-DVD-1804.iso
+
+    或者 http://mirrors.163.com/centos/7.5.1804/isos/x86_64/CentOS-7-x86_64-DVD-1804.iso 
     
+    32位[如果你能安装64位，请不要下载此版本，很多问题]  http://mirror.centos.org/altarch/7.4.1708/isos/i386/CentOS-7-i386-DVD-1708.iso （安装此镜像，需要创建64位的centos虚拟机）
+    
+CentOS7.0下载：
+    
+    64位 http://mirror.nsc.liu.se/centos-store/7.0.1406/isos/x86_64/CentOS-7.0-1406-x86_64-DVD.iso
 
-CentOS6.8下载地址：
 
-    32位 http://mirrors.sohu.com/centos/6.8/isos/i386/CentOS-6.8-i386-bin-DVD1.iso
+CentOS6.10下载地址:
+    
+    32位 https://mirrors.aliyun.com/centos/6.10/isos/i386/CentOS-6.10-i386-bin-DVD1.iso
 
-    64位 http://mirrors.sohu.com/centos/6.8/isos/x86_64/CentOS-6.8-x86_64-bin-DVD1.iso
+    64位 https://mirrors.aliyun.com/centos/6.10/isos/x86_64/CentOS-6.10-x86_64-bin-DVD1.iso
 
 centos6.5
 
@@ -27,53 +35,70 @@ centos老版本下载地址：
 vmware10下载地址：
 
     http://pan.baidu.com/s/1eQxOVPC
-
-mysql下载地址：
-
-    5.1 32位二进制包： http://mirrors.sohu.com/mysql/MySQL-5.1/mysql-5.1.73-linux-i686-glibc23.tar.gz
-
-    5.1_64位二进制包：http://mirrors.sohu.com/mysql/MySQL-5.1/mysql-5.1.73-linux-x86_64-glibc23.tar.gz
-
-    5.5_64位二进制包：http://mirrors.sohu.com/mysql/MySQL-5.5/mysql-5.5.54-linux2.6-x86_64.tar.gz    
-
-    5.5_32位二进制包：http://mirrors.sohu.com/mysql/MySQL-5.5/mysql-5.5.54-linux2.6-i686.tar.gz
-
-    5.6_32位二进制包：http://mirrors.sohu.com/mysql/MySQL-5.6/mysql-5.6.35-linux-glibc2.5-i686.tar.gz
-
-    5.6_64位二进制包：http://mirrors.sohu.com/mysql/MySQL-5.6/mysql-5.6.35-linux-glibc2.5-x86_64.tar.gz
-
-    5.5源码包：http://mirrors.sohu.com/mysql/MySQL-5.5/mysql-5.5.54.tar.gz
-
-    5.6源码包：http://mirrors.sohu.com/mysql/MySQL-5.6/mysql-5.6.35.tar.gz 
-
-apache下载地址：
-
-    2.2源码包： http://mirrors.cnnic.cn/apache/httpd/httpd-2.2.32.tar.gz
-
-    2.4源码包： http://mirrors.cnnic.cn/apache/httpd/httpd-2.4.25.tar.gz
     
-    apr: http://mirrors.hust.edu.cn/apache/apr/apr-1.5.2.tar.gz
+puTTY官方下载地址：
+
+    https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+Xshell个人版下载
+
+    https://www.netsarang.com/download/down_form.html?code=622
+    说明：License type 选择"Home and school use"
+
+MySQL下载地址：
+
+
+    5.6_32位二进制包：http://mirrors.163.com/mysql/Downloads/MySQL-5.6/mysql-5.6.39-linux-glibc2.12-i686.tar.gz
+
+    5.6_64位二进制包：http://mirrors.163.com/mysql/Downloads/MySQL-5.6/mysql-5.6.39-linux-glibc2.12-x86_64.tar.gz
     
-    apr-util: http://mirrors.hust.edu.cn/apache/apr/apr-util-1.5.4.tar.gz 
+    5.7_32位二进制包：http://mirrors.163.com/mysql/Downloads/MySQL-5.7/mysql-5.7.23-linux-glibc2.12-i686.tar.gz
+
+    5.7_64位二进制包：http://mirrors.163.com/mysql/Downloads/MySQL-5.7/mysql-5.7.23-linux-glibc2.12-x86_64.tar.gz
+
+    5.6源码包：http://mirrors.163.com/mysql/Downloads/MySQL-5.6/mysql-5.6.39.tar.gz 
+    
+    5.7源码包：http://mirrors.163.com/mysql/Downloads/MySQL-5.7/mysql-5.7.23.tar.gz
+    
+MariaDB下载地址：
+    
+    10.2.6 64位二进制包 https://downloads.mariadb.com/MariaDB/mariadb-10.2.6/bintar-linux-glibc_214-x86_64/mariadb-10.2.6-linux-glibc_214-x86_64.tar.gz
+    
+    10.2.6 32位二进制包 https://downloads.mariadb.com/MariaDB/mariadb-10.2.6/bintar-linux-glibc_214-x86/mariadb-10.2.6-linux-glibc_214-i686.tar.gz
     
 
-nginx下载地址：
+Apache下载地址：
 
-    1.8源码包： http://nginx.org/download/nginx-1.8.0.tar.gz
+    2.2源码包： https://cfhcable.dl.sourceforge.net/project/apachehttpserver/httpd-2.2.27.tar.gz
 
-    1.6源码包： http://nginx.org/download/nginx-1.6.3.tar.gz
+    2.4源码包： https://mirrors.aliyun.com/apache/httpd/httpd-2.4.35.tar.gz
+    
+    apr: http://mirrors.cnnic.cn/apache/apr/apr-1.6.5.tar.gz
+    
+    apr-util: http://mirrors.cnnic.cn/apache/apr/apr-util-1.6.1.tar.gz
+    
 
-    1.4源码包： http://nginx.org/download/nginx-1.4.7.tar.gz
+Nginx下载地址：
 
-php下载地址：
+    1.14源码包： http://nginx.org/download/nginx-1.14.0.tar.gz
 
-    5.6源码包： http://cn2.php.net/distributions/php-5.6.30.tar.bz2
+
+PHP下载地址：
+
+    5.6源码包： http://cn2.php.net/distributions/php-5.6.32.tar.bz2
 
     5.5源码包： http://cn2.php.net/distributions/php-5.5.38.tar.bz2
 
     5.4源码包： http://cn2.php.net/distributions/php-5.4.45.tar.bz2
+    
+    7.1源码包： http://cn2.php.net/distributions/php-7.1.6.tar.bz2
+    
 
     其他版本： http://php.net/releases/
+
+xftp下载地址：
+
+    链接：http://pan.baidu.com/s/1eSMSLN0 密码：8os4
 
 memcache php扩展下载地址：
 
@@ -97,11 +122,10 @@ mongodb php扩展下载地址：
     
 pureftp下载地址：
 
-    https://download.pureftpd.org/pub/pure-ftpd/releases/pure-ftpd-1.0.42.tar.bz2
+    https://download.pureftpd.org/pub/pure-ftpd/releases/pure-ftpd-1.0.45.tar.bz2
 
-    https://download.pureftpd.org/pub/pure-ftpd/releases/pure-ftpd-1.0.42.tar.gz
+    https://download.pureftpd.org/pub/pure-ftpd/releases/pure-ftpd-1.0.45.tar.gz
 
-    http://down.anxia.com/pure-ftpd-1.0.42.tar.gz（这个国内地址，下载速度噌噌的）
 
 java JDK下载地址：
 
@@ -113,13 +137,17 @@ java JDK下载地址：
 
 tomcat下载地址：
 
-    源码包：http://mirrors.cnnic.cn/apache/tomcat/tomcat-8/v8.5.13/src/apache-tomcat-8.5.13-src.tar.gz
+    官网地址：http://tomcat.apache.org/
+    
+    二进制包：https://mirrors.tuna.tsinghua.edu.cn/apache/tomcat/tomcat-9/v9.0.14/bin/apache-tomcat-9.0.14.tar.gz
+    
+    源码包：https://mirrors.tuna.tsinghua.edu.cn/apache/tomcat/tomcat-8/v8.5.37/src/apache-tomcat-8.5.37-src.tar.gz
 
-    二进制软件包：http://apache.fayea.com/tomcat/tomcat-8/v8.5.13/bin/apache-tomcat-8.5.13.tar.gz
+    二进制软件包：https://mirrors.tuna.tsinghua.edu.cn/apache/tomcat/tomcat-8/v8.5.37/bin/apache-tomcat-8.5.37.tar.gz
 
-    7版本二进制：http://mirrors.cnnic.cn/apache/tomcat/tomcat-7/v7.0.77/bin/apache-tomcat-7.0.77.tar.gz
+    7版本二进制：http://mirrors.hust.edu.cn/apache/tomcat/tomcat-7/v7.0.92/bin/apache-tomcat-7.0.92.tar.gz
 
-    7版本源码包：http://mirrors.cnnic.cn/apache/tomcat/tomcat-7/v7.0.77/src/apache-tomcat-7.0.77-src.tar.gz
+    7版本源码包：http://mirrors.hust.edu.cn/apache/tomcat/tomcat-7/v7.0.92/src/apache-tomcat-7.0.92-src.tar.gz
     
 tomcat连接mysql驱动JDBC下载地址：
     
@@ -133,6 +161,12 @@ resin下载地址：
     官方（很慢）：http://caucho.com/download/resin-4.0.45.tar.gz
     
     阿铭提供：http://a.lishiming.net/data/resin-4.0.45.tar.gz
+    
+
+zabbix下载
+  
+    官方：https://www.zabbix.com/download
+    
 
 网络相关电子书
 
@@ -147,3 +181,16 @@ shell相关电子书
 python基础教程
 
     http://pan.baidu.com/s/1z0Yx4
+    
+    在线版 http://code.ziqiangxuetang.com/python/python-tutorial.html
+    
+    
+django基础教程
+    
+    http://djangobook.py3k.cn/2.0/
+    
+    http://code.ziqiangxuetang.com/django/django-tutorial.html
+    
+iTop 下载地址
+
+    https://jaist.dl.sourceforge.net/project/itop/itop/2.3.4/iTop-2.3.4-3302.zip
