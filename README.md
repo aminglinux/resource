@@ -2,7 +2,7 @@
 
     http://coderschool.cn/1853.html
     
-### CentOS7.5下载地址：
+### CentOS7.6下载地址：
 
     64位  http://mirrors.sohu.com/centos/7.6.1810/isos/x86_64/CentOS-7-x86_64-DVD-1810.iso
 
@@ -61,11 +61,14 @@ CentOS7.0下载：
     
 ### MariaDB下载地址：
     
-    10.2.6 64位二进制包 https://downloads.mariadb.com/MariaDB/mariadb-10.2.6/bintar-linux-glibc_214-x86_64/mariadb-10.2.6-linux-glibc_214-x86_64.tar.gz
+    10.2.6 64位二进制包 
+	https://downloads.mariadb.com/MariaDB/mariadb-10.2.6/bintar-linux-glibc_214-x86_64/mariadb-10.2.6-linux-glibc_214-x86_64.tar.gz
     
-    10.2.6 32位二进制包 https://downloads.mariadb.com/MariaDB/mariadb-10.2.6/bintar-linux-glibc_214-x86/mariadb-10.2.6-linux-glibc_214-i686.tar.gz
+    10.2.6 32位二进制包 
+	https://downloads.mariadb.com/MariaDB/mariadb-10.2.6/bintar-linux-glibc_214-x86/mariadb-10.2.6-linux-glibc_214-i686.tar.gz
     
-    10.3.8 64位二进制包 https://downloads.mariadb.com/MariaDB/mariadb-10.3.8/bintar-linux-glibc_214-x86_64/mariadb-10.3.8-linux-glibc_214-x86_64.tar.gz
+    10.3.8 64位二进制包 
+	https://downloads.mariadb.com/MariaDB/mariadb-10.3.8/bintar-linux-glibc_214-x86_64/mariadb-10.3.8-linux-glibc_214-x86_64.tar.gz
 
 ### Apache下载地址：
 
