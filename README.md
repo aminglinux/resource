@@ -93,13 +93,15 @@ http://mirrors.neusoft.edu.cn/mariadb//mariadb-10.3.11/bintar-linux-x86_64/maria
 
 ### PHP下载地址：
 
-    5.6源码包： http://cn2.php.net/distributions/php-5.6.32.tar.bz2
+    5.6源码包： http://cn2.php.net/distributions/php-5.6.39.tar.bz2
+
+    7.1源码包： http://cn2.php.net/distributions/php-7.1.25.tar.bz2
+
+    7.3源码包： http://cn2.php.net/distributions/php-7.3.0.tar.bz2
 
     5.5源码包： http://cn2.php.net/distributions/php-5.5.38.tar.bz2
 
     5.4源码包： http://cn2.php.net/distributions/php-5.4.45.tar.bz2
-    
-    7.1源码包： http://cn2.php.net/distributions/php-7.1.6.tar.bz2
     
 
     其他版本： http://php.net/releases/
