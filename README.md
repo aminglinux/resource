@@ -72,9 +72,8 @@ https://downloads.mariadb.com/MariaDB/mariadb-10.2.6/bintar-linux-glibc_214-x86_
 10.2.6 32位二进制包 
 https://downloads.mariadb.com/MariaDB/mariadb-10.2.6/bintar-linux-glibc_214-x86/mariadb-10.2.6-linux-glibc_214-i686.tar.gz
    
-10.3.8 64位二进制包 
-https://downloads.mariadb.com/MariaDB/mariadb-10.3.8/bintar-linux-glibc_214-x86_64/mariadb-10.3.8-linux-glibc_214-x86_64.tar.gz
-https://pan.baidu.com/s/1UYvX67JOzC7TEo69IbSBOA(用百度网盘加速器下载)
+10.3.11 64位二进制包 
+http://mirrors.neusoft.edu.cn/mariadb//mariadb-10.3.11/bintar-linux-x86_64/mariadb-10.3.11-linux-x86_64.tar.gz
 ```
 ### Apache下载地址：
 
