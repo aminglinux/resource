@@ -34,6 +34,10 @@ CentOS7.0下载：
 ### vmware10下载地址：
 
     http://pan.baidu.com/s/1eQxOVPC
+
+### 百度网盘加速器
+
+    https://pandownload.com/
     
 ### puTTY官方下载地址：
 
@@ -70,6 +74,7 @@ https://downloads.mariadb.com/MariaDB/mariadb-10.2.6/bintar-linux-glibc_214-x86/
    
 10.3.8 64位二进制包 
 https://downloads.mariadb.com/MariaDB/mariadb-10.3.8/bintar-linux-glibc_214-x86_64/mariadb-10.3.8-linux-glibc_214-x86_64.tar.gz
+https://pan.baidu.com/s/1UYvX67JOzC7TEo69IbSBOA(用百度网盘加速器下载)
 ```
 ### Apache下载地址：
 
