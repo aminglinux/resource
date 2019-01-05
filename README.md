@@ -66,6 +66,7 @@ MariaDB下载地址：
     
     10.2.6 32位二进制包 https://downloads.mariadb.com/MariaDB/mariadb-10.2.6/bintar-linux-glibc_214-x86/mariadb-10.2.6-linux-glibc_214-i686.tar.gz
     
+    10.3.8 64位二进制包 https://downloads.mariadb.com/MariaDB/mariadb-10.3.8/bintar-linux-glibc_214-x86_64/mariadb-10.3.8-linux-glibc_214-x86_64.tar.gz
 
 Apache下载地址：
 
