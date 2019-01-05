@@ -60,16 +60,17 @@ CentOS7.0下载：
     5.7源码包：http://mirrors.163.com/mysql/Downloads/MySQL-5.7/mysql-5.7.23.tar.gz
     
 ### MariaDB下载地址：
-    
-    10.2.6 64位二进制包 
-	https://downloads.mariadb.com/MariaDB/mariadb-10.2.6/bintar-linux-glibc_214-x86_64/mariadb-10.2.6-linux-glibc_214-x86_64.tar.gz
-    
-    10.2.6 32位二进制包 
-	https://downloads.mariadb.com/MariaDB/mariadb-10.2.6/bintar-linux-glibc_214-x86/mariadb-10.2.6-linux-glibc_214-i686.tar.gz
-    
-    10.3.8 64位二进制包 
-	https://downloads.mariadb.com/MariaDB/mariadb-10.3.8/bintar-linux-glibc_214-x86_64/mariadb-10.3.8-linux-glibc_214-x86_64.tar.gz
 
+```    
+10.2.6 64位二进制包 
+https://downloads.mariadb.com/MariaDB/mariadb-10.2.6/bintar-linux-glibc_214-x86_64/mariadb-10.2.6-linux-glibc_214-x86_64.tar.gz
+ 
+10.2.6 32位二进制包 
+https://downloads.mariadb.com/MariaDB/mariadb-10.2.6/bintar-linux-glibc_214-x86/mariadb-10.2.6-linux-glibc_214-i686.tar.gz
+   
+10.3.8 64位二进制包 
+https://downloads.mariadb.com/MariaDB/mariadb-10.3.8/bintar-linux-glibc_214-x86_64/mariadb-10.3.8-linux-glibc_214-x86_64.tar.gz
+```
 ### Apache下载地址：
 
     2.2源码包： https://cfhcable.dl.sourceforge.net/project/apachehttpserver/httpd-2.2.27.tar.gz
