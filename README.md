@@ -88,7 +88,7 @@ http://mirrors.neusoft.edu.cn/mariadb//mariadb-10.3.11/bintar-linux-x86_64/maria
 
 ### Nginx下载地址：
 
-    1.14源码包： http://nginx.org/download/nginx-1.14.0.tar.gz
+    1.14源码包： http://nginx.org/download/nginx-1.14.2.tar.gz
 
 
 ### PHP下载地址：
