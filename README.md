@@ -51,17 +51,17 @@ CentOS7.0下载：
 ### MySQL下载地址：
 
 
-    5.6_32位二进制包：http://mirrors.163.com/mysql/Downloads/MySQL-5.6/mysql-5.6.39-linux-glibc2.12-i686.tar.gz
+    5.6_32位二进制包：http://mirrors.163.com/mysql/Downloads/MySQL-5.6/mysql-5.6.43-linux-glibc2.12-i686.tar.gz
 
-    5.6_64位二进制包：http://mirrors.163.com/mysql/Downloads/MySQL-5.6/mysql-5.6.39-linux-glibc2.12-x86_64.tar.gz
+    5.6_64位二进制包：http://mirrors.163.com/mysql/Downloads/MySQL-5.6/mysql-5.6.43-linux-glibc2.12-x86_64.tar.gz
     
-    5.7_32位二进制包：http://mirrors.163.com/mysql/Downloads/MySQL-5.7/mysql-5.7.23-linux-glibc2.12-i686.tar.gz
+    5.7_32位二进制包：http://mirrors.163.com/mysql/Downloads/MySQL-5.7/mysql-5.7.25-linux-glibc2.12-i686.tar.gz
 
-    5.7_64位二进制包：http://mirrors.163.com/mysql/Downloads/MySQL-5.7/mysql-5.7.23-linux-glibc2.12-x86_64.tar.gz
+    5.7_64位二进制包：http://mirrors.163.com/mysql/Downloads/MySQL-5.7/mysql-5.7.25-linux-glibc2.12-x86_64.tar.gz
 
-    5.6源码包：http://mirrors.163.com/mysql/Downloads/MySQL-5.6/mysql-5.6.39.tar.gz 
+    5.6源码包：http://mirrors.163.com/mysql/Downloads/MySQL-5.6/mysql-5.6.43.tar.gz 
     
-    5.7源码包：http://mirrors.163.com/mysql/Downloads/MySQL-5.7/mysql-5.7.23.tar.gz
+    5.7源码包：http://mirrors.163.com/mysql/Downloads/MySQL-5.7/mysql-5.7.25.tar.gz
     
 ### MariaDB下载地址：
 
