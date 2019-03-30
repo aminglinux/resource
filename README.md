@@ -77,7 +77,9 @@ http://mirrors.neusoft.edu.cn/mariadb//mariadb-10.3.11/bintar-linux-x86_64/maria
 ```
 ### Apache下载地址：
 
-    2.2源码包： https://ftp.bit.nl/apache/httpd-2.2.29.tar.gz
+    2.2源码包： https://ftp.bit.nl/apache/httpd-2.2.29.tar.gz  
+    
+    2.2源码包（百度网盘）：链接：https://pan.baidu.com/s/1wNRLdWd6-oCUgAuGoAgysQ   提取码：q4aq 
 
     2.4源码包： https://mirrors.aliyun.com/apache/httpd/httpd-2.4.35.tar.gz
     
