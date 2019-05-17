@@ -45,8 +45,11 @@ CentOS7.0下载：
 
 ### Xshell个人版下载
 
+    试试这个地址能否下载：https://cdn.netsarang.net/0763e317/Xshell-6.0.0121p.exe
+    如果不行，就到官网（下面地址）下吧
     https://www.netsarang.com/download/down_form.html?code=622
     说明：License type 选择"Home and school use"
+
 
 ### MySQL下载地址：
 
